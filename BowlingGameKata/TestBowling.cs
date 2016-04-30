@@ -10,6 +10,7 @@ namespace BowlingGameKata
     [TestFixture]
     public class TestBowling
     {
+        // trash
         [Test]
         public void AllZero()
         {
